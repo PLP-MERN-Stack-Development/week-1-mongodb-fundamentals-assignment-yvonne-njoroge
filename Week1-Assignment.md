@@ -30,6 +30,7 @@ Learn the fundamentals of MongoDB, including installation, creating collections,
 
 ### Task 3: Advanced Queries
 - Write a query to find books that are both in stock and published after 2010
+
 - Use projection to return only the title, author, and price fields in your queries
 - Implement sorting to display books by price (both ascending and descending)
 - Use the `limit` and `skip` methods to implement pagination (5 books per page)
